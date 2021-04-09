@@ -1,0 +1,17 @@
+{
+    "name": "my-json-server",
+    "version": "1.0.0",
+    "description": "create my json server to use in my projects in feature",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "keywords": [
+        "Json-server"
+    ],
+    "author": "Gnutyud",
+    "license": "ISC",
+    "dependencies": {
+        "json-server": "^0.16.3"
+    }
+}
