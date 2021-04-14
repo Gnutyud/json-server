@@ -1,7 +1,10 @@
 {
-    "notes": [{
-        "id": 1,
-        "title": "Hello",
-        "text": "it is 11:53 PM"
-    }]
+  "notes": [
+    {
+      "title": "Warning",
+      "text": "This site used Heroku json server Platform to deployed but Heroku uses an ephemeral file system.\nso that's why it's going to vanish (every 24 hours, or thereabouts).\n",
+      "color": "rgb(242, 139, 130)",
+      "id": 1
+    }
+  ]
 }
